@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Five Card Draw</string>
+    <string name="player_name_btn">Player Name</string>
+    <string name="play_btn">Play</string>
+    <string name="view_hands_btn">View Hands</string>
+    <string name="enter_name">Enter Player Name</string>
+    <string name="enter_name_btn">Ok</string>
+    <string name="win_list_title">=wins=</string>
+    <string name="player_hand">\'s Hand</string>
+    <string name="hold_card">Hold</string>
+    <string name="throw_card">Throw</string>
+    <string name="menu_btn">&lt;Menu</string>
+    <string name="deal_btn">Deal</string>
+    <string name="wins_btn">Wins&gt;</string>
+    <string name="hands_played">Hands Played:</string>
+    <string name="bank">Bank: $</string>
+
+    <string-array name="win_desc">
+        <item> Error </item>
+        <item>Two of the same cards with a rank of 10 or more. </item>
+        <item> Pair </item>
+        <item>Two pairs of cards. </item>
+        <item>Three cards of the same rank.</item>
+        <item>All cards run in sequence. </item>
+        <item>All cards are the same suit. </item>
+        <item>A pair and a three of a kind.</item>
+        <item>Four cards  of the same rank </item>
+        <item>All cards are the same suit and run in sequence.</item>
+        <item>All cards are the same suit, run in sequence A, K, Q, J, 10 </item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result_title">Hand Result</string>
+    <string name="new_hand">New Hand</string>
+</resources>
